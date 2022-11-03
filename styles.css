@@ -1,0 +1,57 @@
+/*
+ Theme Name:   TwentyTwentyTwo Child Theme
+ Theme URI:    http://storyscaping.michalinadebska.dk
+ Description:  TwentyTwentyTwo Child Theme
+ Author:       Annica, Michalina, Michella
+ Author URI:   http://storyscaping.michalinadebska.dk
+ Template:     twentytwentytwo
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentytwentytwochild
+*/
+
+
+
+.wp-container-7.entry-content.wp-block-post-content{
+    margin:0;}
+    
+    .wp-block-separator {
+    display:none;
+    
+    }
+    
+    .wp-block-spacer {
+    display:none
+    }
+    
+    input{
+      border: solid 1px #C6BDAE;
+      padding-top:5px;
+      padding-bottom:5px
+    }
+    
+    
+    #wpforms-submit-759{
+      background-color:#E0D5C8;
+      padding-right: 97px;
+      padding-left: 97px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border: none;
+      font-family: "neo-sans",sans-serif; 
+    }
+    
+    #wpforms-submit-759:hover{
+        background: rgb(198,189,174);
+        background: linear-gradient(180deg, rgba(198,189,174,1) 0%, rgba(255,246,219,0.7301514355742297) 100%);
+    }
+    
+    #footer{
+      display:none
+    }
+    
+    hr{ display:none }
+    
+    
